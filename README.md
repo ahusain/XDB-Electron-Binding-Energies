@@ -1,5 +1,2 @@
 # XDB-Electron-Binding-Energies
-Electron binding energies for each element based on the [X-Ray Data Booklet](https://xdb.lbl.gov/) from the Lawrence Berkeley National Laboratory. 
-The original dataset is provided in pdf form, which is cumbersome for importing this dataset into software.
-
-This repo gives the same electron binding energies from the XDB in various machine-readble formats (Excel, csv, json) to more easily import the data into software.
+This repository gives the electron binding energies from the [X-Ray Data Booklet](https://xdb.lbl.gov/) in various machine-readable formats (Excel, csv, json) to easily import the data into software. The original dataset from the Lawrence Berkeley National Laboratory is provided in pdf form, which is not machine-readable, and can be found [here](https://xdb.lbl.gov/Section1/Table_1-1.pdf).
